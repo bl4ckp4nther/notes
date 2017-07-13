@@ -2,4 +2,6 @@
 
 remote name is notes
 
-
+configuration files
+mvc framework
+deploy
