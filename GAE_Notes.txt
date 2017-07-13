@@ -5,3 +5,13 @@ remote name is notes
 configuration files
 mvc framework
 deploy
+
+Enter a path to an rc file to update, or leave blank to use 
+[/home/divyanshu/.bashrc]
+
+**HOW TO DEPLOY**
+gcloud app create
+
+appcfg.py update .
+OR
+appcfg.py update app.yaml
