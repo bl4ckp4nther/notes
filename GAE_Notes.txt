@@ -23,3 +23,11 @@ dev_appserver.py .
 
 **ubuntu s/w repo**
 http://bbgentoo.ilb.ru/distfiles/
+
+
+
+**links**
+https://github.com/search?q=topic%3Alearning&type=Repositories
+https://github.com/search?q=topic%3Acheatsheet&type=Repositories66
+https://awesomeweekly.co
+https://github.com/sindresorhus/awesome
